@@ -1,5 +1,5 @@
 
-![I am a Mern Stack developer.](https://i.ibb.co/D91GWhZ/Github-Banner-with-logo.png)
+![I am a Mern Stack developer.](<img width="100%" src="https://i.ibb.co/D91GWhZ/Github-Banner-with-logo.png">)
 
 I'm on a mission to hone my skills and knowledge in the vast world of technology! |Final Year Student | Department of CSE
 
@@ -9,7 +9,7 @@ I'm on a mission to hone my skills and knowledge in the vast world of technology
 - 🤔 I’m looking for help with Continuous improvement! I am open to learning from experienced developers and am always appreciative of constructive feedback on my projects. 
 - 💬 Ask me about Anything related to the MERN stack, web development, PHP/C++/C#. I'm here to share knowledge and learn from the community!
 -  ⚡ Fun fact:  I have a peculiar love affair with errors. 
-- 📫 ## :mailbox: Reach me out
+- 📫 Reach me out
 
 <br />
 
