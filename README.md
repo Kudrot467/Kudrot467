@@ -23,5 +23,5 @@ Skills: PHP/C++/C# / REACT / JS / HTML / CSS/SELENIUM
 
 ![Kudrot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kudrot467&show_icons=true&theme=ambient_gradient) 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Kudrot467)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kudrot467&theme=ambient-gradient)](https://git.io/streak-stats) 
 
