@@ -1,5 +1,4 @@
-### Hi there 👋, my name is Md.Kudrot-E-Khoda
-#### I am a Mern Stack developer.
+
 ![I am a Mern Stack developer.](https://i.ibb.co/D91GWhZ/Github-Banner-with-logo.png)
 
 I'm on a mission to hone my skills and knowledge in the vast world of technology! |Final Year Student | Department of CSE
