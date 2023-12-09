@@ -19,9 +19,9 @@ Skills: PHP/C++/C# / REACT / JS / HTML / CSS/SELENIUM
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kudrot467)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kudrot467)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kudrot467&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kudrot467&show_icons=true&theme=ambient_gradient) 
+![Kudrot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kudrot467&show_icons=true&theme=ambient_gradient) 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Kudrot467)  
 
