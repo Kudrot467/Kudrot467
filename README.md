@@ -3,13 +3,14 @@
 
 I'm on a mission to hone my skills and knowledge in the vast world of technology! |Final Year Student | Department of CSE
 
-
+## :eyes: Current overview
 - 🌱 I’m currently learning and exploring the latest in web development, deepening my understanding of the MERN stack, and staying up-to-date with industry trends. 
 - 👯 I’m looking to collaborate on Innovative projects that challenge and inspire. If you have a cool idea or need an extra pair of hands, let's create something awesome together! 
 - 🤔 I’m looking for help with Continuous improvement! I am open to learning from experienced developers and am always appreciative of constructive feedback on my projects. 
 - 💬 Ask me about Anything related to the MERN stack, web development, PHP/C++/C#. I'm here to share knowledge and learn from the community!
--  ⚡ Fun fact:  I have a peculiar love affair with errors. 
-- 📫 Reach me out
+-  ⚡ Fun fact:  I have a peculiar love affair with errors.
+  
+  ## :mailbox: Reach me out
 
 <br />
 
