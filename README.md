@@ -21,7 +21,7 @@ Skills: PHP/C++/C# / REACT / JS / HTML / CSS/SELENIUM
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kudrot467)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kudrot467&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=ambient_gradient) 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Kudrot467)  
 
