@@ -8,9 +8,16 @@ Skills: PHP/C++/C# / REACT / JS / HTML / CSS/SELENIUM
 - 🌱 I’m currently learning and exploring the latest in web development, deepening my understanding of the MERN stack, and staying up-to-date with industry trends. 
 - 👯 I’m looking to collaborate on Innovative projects that challenge and inspire. If you have a cool idea or need an extra pair of hands, let's create something awesome together! 
 - 🤔 I’m looking for help with Continuous improvement! I am open to learning from experienced developers and am always appreciative of constructive feedback on my projects. 
-- 💬 Ask me about Anything related to the MERN stack, web development, PHP/C++/C#. I'm here to share knowledge and learn from the community! 
-- 📫 How to reach me: kkudrotekhoda@gmail.com 
-- ⚡ Fun fact:  I have a peculiar love affair with errors. 
+- 💬 Ask me about Anything related to the MERN stack, web development, PHP/C++/C#. I'm here to share knowledge and learn from the community!
+-  ⚡ Fun fact:  I have a peculiar love affair with errors. 
+- 📫 ## :mailbox: Reach me out
+
+<br />
+
+[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](linkedin.com/in/md-kudrot-e-khoda-225a9924b)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/kudrotekhodarose)
+
+<br />
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kudrot467)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](linkedin.com/in/md-kudrot-e-khoda-225a9924b)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kudrotekhodarose)  
