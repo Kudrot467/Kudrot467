@@ -14,7 +14,7 @@ I'm on a mission to hone my skills and knowledge in the vast world of technology
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](linkedin.com/in/md-kudrot-e-khoda-225a9924b)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/kudrotekhodarose)
+[<p align="center"><img height="75" src="https://github.com/mir-hussain/blob/main/images/icons/Linkedin.png">](linkedin.com/in/md-kudrot-e-khoda-225a9924b)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/kudrotekhodarose)
 
 <br />
 
