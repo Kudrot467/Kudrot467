@@ -13,11 +13,9 @@ I'm on a mission to hone my skills and knowledge in the vast world of technology
   ## :mailbox: Reach me out
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png"> </p>](https://www.facebook.com/kudrotekhodarose)
+[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/kudrotekhodarose)
 
-<br />
-
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/md-kudrot-e-khoda-225a9924b/)
+[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/md-kudrot-e-khoda-225a9924b)
 <br/>
 
 ## :computer: Technologies that I know
